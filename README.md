@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there, I'm Khanh
 
-<!--
-**AnDo081105/AnDo081105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science Student | 💻 Bioinformatics Enthusiast | 🧬 Turning data into biological insight**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a data science student passionate about uncovering patterns in biological data.  
+My interests lie at the intersection of **machine learning**, **bioinformatics**, and **data visualization** — utilizing data-driven approaches to understand complex biological systems.
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages:**  
+- Python 🐍 | R 📊 | SQL 💾  
+
+**Libraries & Frameworks:**  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Scikit-learn, TensorFlow  
+
+**Areas of Interest:**  
+- Bioinformatics & Genomics  
+- Machine Learning & Deep Learning  
+- Data Cleaning & Visualization  
+- Statistical Modeling  
+
+---
+
+## 📈 What I’m Working On
+- Experimenting with ML models for gene expression data  
+- Expanding my portfolio of data science and bioinformatics projects  
+
+---
+
+## 🌱 What I’m Learning
+- Advanced deep learning architectures for biological data  
+- Integrating Python and R workflows for data analysis  
+
+---
+
+## 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/khanh-do-759578303/)  
+- ✉️ [Email](khanhan.do0811@gmail.com)  
+- 🧠 [Kaggle]()
+
+---
