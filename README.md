@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 I'm a data science student passionate about uncovering patterns in biological data.  
-My interests lie at the intersection of **machine learning**, **bioinformatics**, and **data visualization** — utilizing data-driven approaches to understand complex biological systems.
+My interests lie at the intersection of **machine learning**, **bioinformatics**, and **data visualization** :) Dont know why I stumble here but here we are
 
 ---
 
