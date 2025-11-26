@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Khanh
 
-🎓 **Data Science Student | 💻 Bioinformatics Enthusiast | 🧬 Turning data into biological insight**
+🎓 **Data Science Student | 💻 Bioinformatics Enthusiast
 
 ---
 
